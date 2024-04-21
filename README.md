@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Megamoin 
 - 👀 I’m interested in anything tech related as long as theres no zombie like fanbase around it 🥶
-- 🌱 I’m currently learning java, python, c and maybe a little rust :p
+- 🌱 I’m currently learning java, python, rust and maybe a little c :p
 - 💞️ I’m looking to collaborate on not that much currently, i'm pretty busy 🥲 (maybe if you ask nicely 🤔)
 - 📫 How to reach me: you can reach me via discord @megamoin
 - 😄 Pronouns: he/him
